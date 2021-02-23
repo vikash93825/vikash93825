@@ -1,4 +1,6 @@
-### Hi I am Vikash Kumar👋
+ <p text-align="center">
+   <h2>Hi, I'm Vikash Kumar👋<h2>
+</p>
 
 <!--
 **vikash93825/vikash93825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
