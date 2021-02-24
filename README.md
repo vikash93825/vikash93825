@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img width="560"  src="https://user-images.githubusercontent.com/61466065/109038759-1451cb00-76f2-11eb-8399-b330840501aa.png">
+  <img width="560"  src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg">
 </p>
 <p align="center">
-  <img width="460"  src="https://user-images.githubusercontent.com/61466065/109038832-27fd3180-76f2-11eb-936e-7e7ef7faf2de.png">
+  <img width="460"  src="https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg">
 </p>
 
 
