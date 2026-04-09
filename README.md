@@ -8,11 +8,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+%7C+Redux+%7C+MUI;AWS+%7C+Docker+%7C+DevOps;Clean+Code+%7C+Scalable+Apps&center=true&width=500&height=45">
 </p>
 
+<!-- 🔥 Animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Working on **React + AWS Cloud Projects**
+- 🔭 Working on **React + Redux Projects**
 - 🌱 Learning **DevOps & System Design**
 - 💡 Love solving **real-world complex problems**
 - ⚡ Writing **clean, scalable & efficient code**
@@ -45,16 +50,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-🚧 Coming Soon (Add your best 2–3 projects here)
-
-- 🔹 AWS RDS + React App  
-- 🔹 Dockerized React Deployment  
-- 🔹 Full Stack Dashboard  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,14 +63,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikash93825&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikash93825&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
