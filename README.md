@@ -17,6 +17,7 @@
 
 ## 🧑‍💻 About Me
 
+- 💼 **4.5+ years of experience** in Full Stack Development
 - 🔭 Working on **React + Redux Projects**
 - 🌱 Learning **DevOps & System Design**
 - 💡 Love solving **real-world complex problems**
