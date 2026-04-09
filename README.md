@@ -1,38 +1,104 @@
+<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | ⚛️ React | ☁️ AWS | 🐳 Docker
+</h3>
 
 <p align="center">
- <h2>Hi, I'm Vikash Kumar👋</h2>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+%7C+Redux+%7C+MUI;AWS+%7C+Docker+%7C+DevOps;Clean+Code+%7C+Scalable+Apps&center=true&width=500&height=45">
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Working on **React + AWS Cloud Projects**
+- 🌱 Learning **DevOps & System Design**
+- 💡 Love solving **real-world complex problems**
+- ⚡ Writing **clean, scalable & efficient code**
+- 📍 Bengaluru, India  
+- 📫 **vikashkumar.kk@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,materialui" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+## 🏗️ Featured Projects
+
+🚧 Coming Soon (Add your best 2–3 projects here)
+
+- 🔹 AWS RDS + React App  
+- 🔹 Dockerized React Deployment  
+- 🔹 Full Stack Dashboard  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  An Aspiring Full-stack developer with a curious mind who loves solving very complex and challenging real-world problems. Also, more interested in making a website more functional and user-friendly and proficient in writing clean code and efficient code.
+  <img src="https://github-readme-stats.vercel.app/api?username=vikash93825&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash93825&theme=tokyonight&hide_border=true" />
 </p>
 
-<!--
-**vikash93825/vikash93825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  Proficiencies
-</p>
+## 📈 Activity Graph
 
 <p align="center">
-  <img width="560"  src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikash93825&theme=tokyo-night" />
 </p>
+
+---
+
+## 🏆 Achievements
+
 <p align="center">
-  <img width="460"  src="https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikash93825&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
+---
 
+## 🤝 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikash-03/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:vikashkumar.kk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
 
-![Vikash GitHub stats](https://github-readme-stats.vercel.app/api?username=vikash93825&show_icons=true&theme=gotham)
+---
+
+## 💡 Fun Fact
+
+✨ I turn complex problems into simple and beautiful solutions.
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/vikash93825">vikash93825</a>
+</p>
